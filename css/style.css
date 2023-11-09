@@ -1,0 +1,32 @@
+@import "main.css";
+h6 {
+  color: red;
+}
+h5 {
+  color: black;
+}
+.heading1 {
+  text-decoration: underline;
+}
+.rounded-img {
+  width: 60%;
+  border-radius: 50%;
+  box-shadow: 0 0 70px rgba(26, 9, 9, 1);
+  padding: 0.5em;
+  margin-bottom: 1em;
+}
+.card {
+  border-radius: 2em;
+  text-align: center;
+  padding: 1em;
+}
+.card:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.card img {
+  width: 95%;
+  margin: auto;
+}
+.cursor {
+  cursor: crosshair;
+}
